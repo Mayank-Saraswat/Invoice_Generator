@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Invoice_Generator/static/css/main.56a20220.css",
+    "main.js": "/Invoice_Generator/static/js/main.1d0cf4c4.js",
+    "static/js/703.b0d13003.chunk.js": "/Invoice_Generator/static/js/703.b0d13003.chunk.js",
+    "static/js/379.2fa05c03.chunk.js": "/Invoice_Generator/static/js/379.2fa05c03.chunk.js",
+    "static/js/787.9c17d075.chunk.js": "/Invoice_Generator/static/js/787.9c17d075.chunk.js",
+    "index.html": "/Invoice_Generator/index.html",
+    "main.56a20220.css.map": "/Invoice_Generator/static/css/main.56a20220.css.map",
+    "main.1d0cf4c4.js.map": "/Invoice_Generator/static/js/main.1d0cf4c4.js.map",
+    "703.b0d13003.chunk.js.map": "/Invoice_Generator/static/js/703.b0d13003.chunk.js.map",
+    "379.2fa05c03.chunk.js.map": "/Invoice_Generator/static/js/379.2fa05c03.chunk.js.map",
+    "787.9c17d075.chunk.js.map": "/Invoice_Generator/static/js/787.9c17d075.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a20220.css",
+    "static/js/main.1d0cf4c4.js"
+  ]
+}
